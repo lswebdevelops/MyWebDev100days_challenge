@@ -1,14 +1,17 @@
 h1 {
-    font-family: sans-serif;
+    font-family:'Hubballi' , sans-serif;
+    font-size: large;
     text-align: center;
     color:rgb(83, 75, 75);
 
 }
 
-p {
+#paragraph1{
     font-family: sans-serif;
     text-align: center;
-    color:rgb(83, 75, 75);
+    color:rgb(38, 149, 168);
+    font-weight: bold;
+    font-size: 40px;
 }
 a{
     color:rgb(167,1,78);
