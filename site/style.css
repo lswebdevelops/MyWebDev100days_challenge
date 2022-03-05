@@ -1,9 +1,16 @@
+p{
+    text-align:center;
+}
 h1 {
     font-family:'Hubballi' , sans-serif;
     font-size: large;
     text-align: center;
     color:rgb(83, 75, 75);
 
+}
+#img01{
+    width: 200px;
+    border-radius: 100px;
 }
 
 #paragraph1{
@@ -22,3 +29,5 @@ a:hover{
     font-size: large;
     text-decoration: underline;
 }
+
+
